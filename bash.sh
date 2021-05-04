@@ -9,3 +9,4 @@ e=$(($a*$b))
 echo "multi of 2 nos is $e"
 f=$(($a/$b))
 echo "div of 2 nos is $f"
+#shell_scripting
